@@ -40,7 +40,7 @@ The network follows a structured **three-layer architecture**:
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-YASH123SHRI/xnl_simulation.git
-   cd self-healing-network
+   cd xnl_simulation
    ```
 2. Open **Cisco Packet Tracer** and load the `.pkt` file.  
 3. Configure **IP addressing, VLANs, and OSPF** using provided scripts.  
