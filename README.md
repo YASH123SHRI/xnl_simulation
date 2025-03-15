@@ -39,7 +39,7 @@ The network follows a structured **three-layer architecture**:
 ### **Steps to Deploy**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-YASH123SHRI/self-healing-network.git
+   git clone https://github.com/your-YASH123SHRI/xnl_simulation.git
    cd self-healing-network
    ```
 2. Open **Cisco Packet Tracer** and load the `.pkt` file.  
