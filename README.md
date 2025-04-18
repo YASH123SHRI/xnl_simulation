@@ -1,5 +1,3 @@
-# XNL Simulation
-
 # **Self-Healing, Zero-Downtime Enterprise Network 🚀**  
 
 ## **Overview**  
